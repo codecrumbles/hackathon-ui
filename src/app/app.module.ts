@@ -34,6 +34,7 @@ import { SimpleLayoutComponent } from './layouts/simple-layout.component';
     CoreModule.forRoot(),
     AuthJwtModule,
     NgbModule.forRoot(),
+
     TabsModule.forRoot(),
     ChartsModule,
     CalendarModule
